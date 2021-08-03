@@ -1,1 +1,4 @@
-merhaba dünya!
+
+hello world
+q
+nbnccbncbncncncnndünya!
